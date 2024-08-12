@@ -56,5 +56,5 @@ This project demonstrates how to use Teachable Machine and TensorFlow.js to crea
 - This project uses Teachable Machine, a tool developed by Google Creative Lab, and TensorFlow.js.
 
 ## Example
-![لقطة شاشة 2024-08-12 111353](https://github.com/user-attachments/assets/aafff945-1ffc-408e-8afe-3154e24a5f3a)
+![لقطة شاشة 2024-08-12 115647](https://github.com/user-attachments/assets/754699b2-ee23-47ec-9999-73c82709f840)
 
